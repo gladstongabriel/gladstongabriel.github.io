@@ -10,22 +10,22 @@ Tenho interesse em desenvolvimento de software e sistemas embarcados, buscando s
 
 ### 🚀 Tecnologias e Linguagens
 
-Dart (Flutter)
-Python
-C / C++ / C#
-Java
-SQL
-HTML & CSS
+- Dart (Flutter)
+- Python
+- C / C++ / C#
+- Java
+- SQL
+- HTML & CSS
 
 
 ### 🧠 Habilidades
 
-📱 Desenvolvimento de aplicativos com Flutter
-🗄️ Modelagem de banco de dados
-🔌 Programação com Arduino e microcontroladores (ESP32, etc.)
-🎮 Desenvolvimento de jogos com Unity
-📊 Análise de algoritmos
-🌐 Desenvolvimento web
+- 📱 Desenvolvimento de aplicativos com Flutter
+- 🗄️ Modelagem de banco de dados
+- 🔌 Programação com Arduino e microcontroladores (ESP32, etc.)
+- 🎮 Desenvolvimento de jogos com Unity
+- 📊 Análise de algoritmos
+- 🌐 Desenvolvimento web
 
 ### 📂 Projetos
 🌫️ Sistema de Monitoramento da Qualidade do Ar
@@ -62,9 +62,9 @@ Atualmente atuo como monitor no programa PET-Saúde Digital, com foco em educaç
 
 🧩 Atividades:
 
-Produção de podcasts
-Pesquisas científicas
-Estudos sobre aplicação de tecnologias no SUS
+- Produção de podcasts
+- Pesquisas científicas
+- Estudos sobre aplicação de tecnologias no SUS
 
 
 ### 🌏Idiomas
