@@ -1,7 +1,5 @@
-# gladstongabriel.github.io
-
 ### Sobre mim
-Olá! Me chamo Gladston Gabriel Tavares Almeida 👋
+Olá! Me chamo Gladston Gabriel Tavares Almeida, possuo 20 anos.
 
 🎓 Técnico em Eletrônica pelo Instituto Federal do Amazonas (IFAM)
 🎓 Estudante de Engenharia da Computação pela Universidade Federal do Amazonas (UFAM)
@@ -75,8 +73,8 @@ Atualmente atuo como monitor no programa PET-Saúde Digital, com foco em educaç
 - Espanhol Básico
 
 ### 📫 Contato
-- GitHub: (coloque seu link)
-- LinkedIn: (se tiver, coloque aqui)
-- Email: (opcional)
+- GitHub: https://github.com/gladstongabriel
+- LinkedIn: https://www.linkedin.com/in/gladston-gabriel-tavares-almeida-854409265/
+- Email: gladstongabriel22@gmail.com
 
 
